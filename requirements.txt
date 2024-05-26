@@ -1,0 +1,6 @@
+O usuário deve fazer login e autenticação
+O usuário pode registrar uma armadilha de mosquito
+    cada armadilha de mosquito tem os campos: nome, coordenadas no mapa, metadados
+O usuário pode utilizar a função importar dados
+    A função importar dados carrega os dados de um arquivo .csv e insere dentro do campo metadados de uma armadilha
+O usuário pode visualizar todas as armadilhas de mosquito no mapa
